@@ -1,0 +1,9 @@
+Nous proposons une interface web composé de plusieurs pages pour chaque module.
+Module 1 : 
+  - un formulaire de saisie des données avec un module de vérification de la cohérence des données avec celles de siroco.
+    + Si les données sont cohérentes un mail est envoyé au responsable pour valider la demande
+    + Sinon un message d'érreur est envoyé au client par rapport aux données incohérentes
+  - un module d'insertion des données dans la base de données.
+  - envoie de mail au reponsable pour valider la demande. 
+  - un bouton d'extraction des données format excel.
+  
